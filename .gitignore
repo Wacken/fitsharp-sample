@@ -1,0 +1,11 @@
+.idea/
+/Fixtures/packages/
+/fitnesse.cmd
+/fitnesseRoot/
+/storytest.config.xml
+/Fixtures/Fixtures/packages.config
+/Fixtures/Fixtures/obj/
+/Fixtures/Fixtures/bin/
+/Fixtures/Fixtures/Properties/
+*.sln
+*.csproj
